@@ -1,0 +1,2 @@
+# ethstor
+eth.storage
